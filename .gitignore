@@ -1,0 +1,23 @@
+# Local Claude Code notes (never committed)
+CLAUDE.md
+
+# Dependencies & build output
+node_modules/
+dist/
+*.zip
+*.crx
+*.pem
+
+# Test & tooling output
+coverage/
+playwright-report/
+test-results/
+
+# Environment
+.env
+.env.*
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
