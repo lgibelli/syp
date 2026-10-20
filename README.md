@@ -14,4 +14,4 @@ SYP is an independent project and is not affiliated with, endorsed by, or sponso
 
 ## License
 
-[MIT](LICENSE)
+[GNU AGPL-3.0](LICENSE). If you distribute SYP or run a modified version as a network service, you must share your source code under the same license.
